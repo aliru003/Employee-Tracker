@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shine7653/Homework12-EmployeeTracker.git"
+    "url": "git+https://github.com/aliru003/Employee-Tracker"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shine7653/Homework12-EmployeeTracker/issues"
+    "url": "https://github.com/aliru003/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/shine7653/Homework12-EmployeeTracker#readme",
+  "homepage": "https://github.com/aliru003/Employee-Tracker/blob/main/README.md",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^7.0.0",
